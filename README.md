@@ -10,9 +10,9 @@ finance.**
 
  **Fama-French 25 portfolios double sorted by size and value**
  
-  *Consider to obtain the monthly average value-weighted returns from the ’25_Portfolios_5x5’ in the Fama-French datasets. The sample period is from Jul 1963 - Sep 2019.<br>
-  *Obtain the corresponding monthly market, size, and book-to-market factors in the Fama-French
+  + Consider to obtain the monthly average value-weighted returns from the ’25_Portfolios_5x5’ in the Fama-French datasets. The sample period is from Jul 1963 - Sep 2019.<br>
+  + Obtain the corresponding monthly market, size, and book-to-market factors in the Fama-French
 datasets.<br>
-  *Run the 3-factor model for the 25 portfolios to obtain alpha, the t-statistic of alpha, the coefficients
+  + Run the 3-factor model for the 25 portfolios to obtain alpha, the t-statistic of alpha, the coefficients
 before each factor and adjusted R2.<br>
-  *Calculate the risk premium predicted by the 3-factor model and the realized risk premium for each portfolio. Use two sets of risk premiums to plot a figure for evaluating the performance of the 3 factor model in the 25 portfolios under study.
+  + Calculate the risk premium predicted by the 3-factor model and the realized risk premium for each portfolio. Use two sets of risk premiums to plot a figure for evaluating the performance of the 3 factor model in the 25 portfolios under study.

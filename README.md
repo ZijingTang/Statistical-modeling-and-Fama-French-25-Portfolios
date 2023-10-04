@@ -6,7 +6,7 @@ finance.**
 
  + Fit a ARCH(1), ARCH(2), GARCH(1,1), GARCH(2,1),TARCH(1,1,1), TARCH(2,2,1) models to the index and the stock separately and report the results.<br>
  + Find the best model for each series by the BIC criteria from the models.<br>
- + From the last observation in your sample, use the best model you find in question (b) to find the 1 day ahead 5% Value at Risk (VaR). Do this for both the single stock and the index separately. Suppose the market value of your investment in S&P500 is $100M and the market value of your investment in IBM is also $100M at the last day in your sample.
+ + Find the 1 day ahead 5% Value at Risk (VaR). Do this for both the single stock and the index separately. Suppose the market value of your investment in S&P500 is $100M and the market value of your investment in IBM is also $100M at the last day in your sample.
 
  **Fama-French 25 portfolios double sorted by size and value**
  
@@ -16,3 +16,4 @@ datasets.<br>
   + Run the 3-factor model for the 25 portfolios to obtain alpha, the t-statistic of alpha, the coefficients
 before each factor and adjusted R2.<br>
   + Calculate the risk premium predicted by the 3-factor model and the realized risk premium for each portfolio. Use two sets of risk premiums to plot a figure for evaluating the performance of the 3 factor model in the 25 portfolios under study.
+
